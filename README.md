@@ -6,7 +6,7 @@ An end-to-end **Credit Risk Analytics** solution built using **Python, PostgreSQ
 
 ### Portfolio Overview
 
-![Portfolio Overview](dashboard/screenshots/portfolio_overview.png)
+![Portfolio Overview](Portfolio_Overview.png)
 
 ### Credit Risk Deep Dive
 
