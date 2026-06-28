@@ -6,19 +6,19 @@ An end-to-end **Credit Risk Analytics** solution built using **Python, PostgreSQ
 
 ### Portfolio Overview
 
-![Portfolio Overview](Portfolio_Overview.png)
+![Portfolio Overview](Portfolio%20Overview.png)
 
 ### Credit Risk Deep Dive
 
-![Credit Risk Deep Dive](dashboard/screenshots/credit_risk_analysis.png)
+![Credit Risk Deep Dive](Credit%20Risk%20Deep%20Dive.png)
 
 ### Repayment Health
 
-![Repayment Health](dashboard/screenshots/repayment_health.png)
+![Repayment Health](Repayment%20Health.png)
 
 ### Fraud Detection Module
 
-![Fraud Detection](dashboard/screenshots/fraud_detection.png)
+![Fraud Detection](Fraud%20Detection%20Module.png)
 
 ## Tech Stack
 
